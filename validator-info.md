@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| sychonix        | https://sychonix.com  | https://x.com/sychonixx  |  indonesia | https://github.com/sychonixx | sychonixx@gmail.com  | CB0E70AD58CDF9FBA0DFE67CE1B1B91700E50395875058ACF6A0DCFFA92112DC   |   |
+| sychonix        | https://sychonix.com  | https://x.com/sychonixx  |  indonesia | https://github.com/sychonixx | sychonixx@gmail.com  | sychonix   | CB0E70AD58CDF9FBA0DFE67CE1B1B91700E50395875058ACF6A0DCFFA92112DC  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
